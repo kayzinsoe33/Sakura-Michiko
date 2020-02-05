@@ -1,0 +1,30 @@
+[
+    {
+        "name": "mg",
+        "email": "ff@gmail.com",
+        "gender": "male",
+        "address": "fadfasdfjlkdsf",
+        "profile": "photo\/mfemale8.jpg"
+    },
+    {
+        "name": "asdfghjkl;",
+        "email": "",
+        "gender": "male",
+        "address": "",
+        "profile": "photo\/dark.png"
+    },
+    {
+        "name": "asdfghjkl;",
+        "email": "davidvanpersi.dv@gmail.com",
+        "gender": "female",
+        "address": "asdfghjkl;'\r\n",
+        "profile": "photo\/"
+    },
+    {
+        "name": "koko",
+        "email": "koko@gmail.com",
+        "gender": "male",
+        "address": "asdfghjkl",
+        "profile": "photo\/"
+    }
+]
